@@ -42,7 +42,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 Endor Labs’ Partner Code of Conduct supersedes this Code of Conduct when conflicting.
 
-The LeanAppSec moderation team is Jenn Gile and Kadi McKean.
+The LeanAppSec moderation team is Jenn Gile and Deepika D'Souza.
 
 ## Enforcement Guidelines
 Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
