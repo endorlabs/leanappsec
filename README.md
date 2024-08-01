@@ -1,7 +1,7 @@
 # LeanAppSec Community Code of Conduct
 
 ## Preface
-Endor Labs values a healthy LeanAppSec community where people feel safe - psychologically and physically - in their interactions with other members, both inside of Slack and beyond. To achieve this outcome, we are codifying our guidelines on behavior and interactions with one another. This Code of Conduct is a work in progress that will evolve with the LeanAppSec community. We value our community's input and welcome suggestions.
+Endor Labs values a healthy [LeanAppSec community](https://www.leanappsec.com/slack-community) where people feel safe - psychologically and physically - in their interactions with other members, both inside of Slack and beyond. To achieve this outcome, we are codifying our guidelines on behavior and interactions with one another. This Code of Conduct is a work in progress that will evolve with the LeanAppSec community. We value our community's input and welcome suggestions.
 
 ## Our Promise
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, neuro(a)typicality, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
@@ -33,7 +33,7 @@ This community is for tech professionals who want to understand and improve appl
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Scope
-This Code of Conduct applies to all LeanAppSec community spaces and events, both online and offline, including but not limited to the LeanAppSec community Slack. 
+This Code of Conduct applies to all [LeanAppSec](https://www.leanappsec.com/) community spaces and events, both online and offline, including but not limited to the LeanAppSec community Slack. 
 
 While this Code of Conduct applies to LeanAppSec spaces, we still want to know if you are being harassed by a member of the LeanAppSec community outside our spaces. We will take all good-faith reports of harassment seriously.
 
